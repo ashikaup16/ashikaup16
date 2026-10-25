@@ -102,12 +102,32 @@ a {
 }
 
 .hero {
+  position: relative;
+  isolation: isolate;
   display: grid;
-  min-height: 610px;
+  width: 100%;
+  min-height: 650px;
   align-items: center;
   grid-template-columns: 1.08fr 0.92fr;
   gap: 36px;
-  padding-block: 80px 92px;
+  overflow: hidden;
+  padding: 80px max(32px, calc((100vw - 1120px) / 2)) 92px;
+  background:
+    radial-gradient(ellipse at 80% 25%, rgb(255 142 102 / 43%), transparent 27%),
+    radial-gradient(ellipse at 66% 92%, rgb(196 235 96 / 72%), transparent 38%),
+    radial-gradient(ellipse at 14% 5%, rgb(255 255 255 / 75%), transparent 35%),
+    linear-gradient(120deg, #fff0c2 0%, #f3f2d7 49%, #e5f3df 100%);
+}
+
+.hero::before {
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  background-image: radial-gradient(rgb(55 73 34 / 16%) 0.8px, transparent 0.8px);
+  background-size: 22px 22px;
+  content: "";
+  mask-image: linear-gradient(90deg, transparent 8%, black 100%);
+  opacity: 0.28;
 }
 
 .eyebrow,
@@ -154,7 +174,7 @@ h1 {
 }
 
 h1 span {
-  color: #82996a;
+  color: #5f7e2e;
 }
 
 .hero-description {
@@ -224,7 +244,7 @@ h1 span {
   background:
     radial-gradient(ellipse at 70% 23%, rgb(255 255 255 / 76%), transparent 22%),
     radial-gradient(ellipse at 28% 72%, rgb(255 255 255 / 58%), transparent 28%),
-    #e8edda;
+    linear-gradient(145deg, #d5ef93, #ffd5ad 55%, #d4e9d2);
 }
 
 .art-orbit {
@@ -914,10 +934,11 @@ h1 span {
   }
 
   .hero {
+    width: 100%;
     min-height: auto;
     grid-template-columns: 1fr;
     gap: 44px;
-    padding-block: 68px;
+    padding: 68px 20px;
   }
 
   .hero-art {
@@ -1000,6 +1021,11 @@ h1 span {
 
   .hero-actions .button {
     width: 100%;
+  }
+
+  .hero {
+    width: 100%;
+    padding-inline: 18px;
   }
 
   .hero-meta {

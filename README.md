@@ -31,6 +31,13 @@ I enjoy building useful, user-focused applications and turning ideas into polish
 
 ## 🌟 Featured Projects
 
+### [Medication Reminder App](https://github.com/manyagkarle13/medication-reminder)
+A full-stack medication management app for scheduling reminders, tracking adherence, and sending browser push notifications. Includes account registration and login, medication schedules, history logs, and a responsive interface.
+
+- **Live frontend:** [medication-frontend-0bj3.onrender.com](https://medication-frontend-0bj3.onrender.com)
+- **Backend API:** [medication-backend-tc43.onrender.com](https://medication-backend-tc43.onrender.com)
+- **Tech:** Next.js, React, Django, Django REST Framework, Web Push API
+
 ### [LectureAI](https://github.com/ashikaup16/LectureAI)
 An AI-powered learning platform that turns lecture videos or transcripts into summaries, Cornell-style notes, quizzes, and flashcards. It also includes an interactive lecture tutor and export options.
 

@@ -2,13 +2,17 @@
 
 # Hi, I'm Ashika U P 👋
 
-**Information Science & Engineering Student · Aspiring Full-Stack Developer**
+### Information Science & Engineering Student · Aspiring Full-Stack Developer
 
-I build practical, user-focused web applications and enjoy learning how thoughtful design and technology can solve real problems.
+Building practical, user-focused web applications with clean interfaces and thoughtful design. Currently exploring full-stack development, AI, and data science.
 
-[LinkedIn](https://www.linkedin.com/in/ashikaup) · [Email](mailto:ashikaup55@gmail.com) · [GitHub](https://github.com/ashikaup16)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikaup)
+[![Email me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikaup55@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikaup16)
 
 </div>
+
+---
 
 ## 👩‍💻 About
 

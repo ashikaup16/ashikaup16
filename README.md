@@ -9,6 +9,7 @@ Building practical, user-focused web applications with clean interfaces and thou
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikaup)
 [![Email me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikaup55@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikaup16)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-789548?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashikaup16.github.io/ashikaup16/)
 
 </div>
 

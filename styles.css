@@ -113,26 +113,29 @@ a {
   overflow: hidden;
   padding: 80px max(32px, calc((100vw - 1120px) / 2)) 92px;
   background:
-    radial-gradient(ellipse at 80% 25%, rgb(255 142 102 / 43%), transparent 27%),
-    radial-gradient(ellipse at 66% 92%, rgb(196 235 96 / 72%), transparent 38%),
-    radial-gradient(ellipse at 14% 5%, rgb(255 255 255 / 75%), transparent 35%),
-    linear-gradient(120deg, #fff0c2 0%, #f3f2d7 49%, #e5f3df 100%);
+    radial-gradient(ellipse at 82% 20%, rgb(235 82 255 / 38%), transparent 29%),
+    radial-gradient(ellipse at 66% 92%, rgb(37 228 194 / 26%), transparent 38%),
+    radial-gradient(ellipse at 10% 5%, rgb(82 109 255 / 24%), transparent 36%),
+    linear-gradient(120deg, #12152f 0%, #1c1a43 52%, #102b39 100%);
 }
 
 .hero::before {
   position: absolute;
   z-index: -1;
   inset: 0;
-  background-image: radial-gradient(rgb(55 73 34 / 16%) 0.8px, transparent 0.8px);
-  background-size: 22px 22px;
+  background-image:
+    radial-gradient(rgb(255 255 255 / 75%) 0.8px, transparent 0.8px),
+    radial-gradient(rgb(165 174 255 / 50%) 1px, transparent 1px);
+  background-position: 0 0, 11px 13px;
+  background-size: 31px 31px, 47px 47px;
   content: "";
-  mask-image: linear-gradient(90deg, transparent 8%, black 100%);
-  opacity: 0.28;
+  mask-image: linear-gradient(90deg, transparent 4%, black 100%);
+  opacity: 0.2;
 }
 
 .eyebrow,
 .section-kicker {
-  color: #71805e;
+  color: #c5d4ff;
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 1.35px;
@@ -148,8 +151,8 @@ a {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #80b83b;
-  box-shadow: 0 0 0 4px rgb(128 184 59 / 14%);
+  background: #6df0c1;
+  box-shadow: 0 0 0 4px rgb(109 240 193 / 18%);
 }
 
 h1,
@@ -171,15 +174,16 @@ h1 {
   font-weight: 700;
   letter-spacing: -5px;
   line-height: 1.04;
+  color: #fbfaff;
 }
 
 h1 span {
-  color: #5f7e2e;
+  color: #83f0ce;
 }
 
 .hero-description {
   max-width: 515px;
-  color: #666b64;
+  color: #c6c8dd;
   font-size: 16px;
   line-height: 1.85;
 }
@@ -212,17 +216,18 @@ h1 span {
 }
 
 .button-dark {
-  background: var(--ink);
-  color: white;
+  background: #83f0ce;
+  color: #151933;
 }
 
 .button-dark:hover {
-  background: #3a4336;
+  background: #a5f8df;
 }
 
 .button-light {
-  border-color: #dcddd4;
-  background: transparent;
+  border-color: rgb(232 233 255 / 30%);
+  background: rgb(255 255 255 / 5%);
+  color: #f5f4ff;
 }
 
 .hero-meta {
@@ -230,7 +235,7 @@ h1 span {
   flex-wrap: wrap;
   gap: 22px;
   margin-top: 36px;
-  color: #777c73;
+  color: #c1c4d9;
   font-size: 12px;
 }
 
@@ -242,16 +247,16 @@ h1 span {
   place-items: center;
   border-radius: 48% 52% 45% 55% / 48% 42% 58% 52%;
   background:
-    radial-gradient(ellipse at 70% 23%, rgb(255 255 255 / 76%), transparent 22%),
-    radial-gradient(ellipse at 28% 72%, rgb(255 255 255 / 58%), transparent 28%),
-    linear-gradient(145deg, #d5ef93, #ffd5ad 55%, #d4e9d2);
+    radial-gradient(ellipse at 70% 23%, rgb(255 255 255 / 36%), transparent 22%),
+    radial-gradient(ellipse at 28% 72%, rgb(70 255 215 / 30%), transparent 28%),
+    linear-gradient(145deg, #6e58d8, #d96bc9 55%, #68d8c0);
 }
 
 .art-orbit {
   position: absolute;
   width: 330px;
   height: 330px;
-  border: 1px solid rgb(69 91 44 / 15%);
+  border: 1px solid rgb(255 255 255 / 28%);
   border-radius: 50%;
 }
 
@@ -271,10 +276,10 @@ h1 span {
   gap: 13px;
   padding: 28px;
   transform: rotate(-5deg);
-  border: 1px solid rgb(255 255 255 / 80%);
+  border: 1px solid rgb(255 255 255 / 75%);
   border-radius: 15px;
-  background: rgb(255 254 250 / 88%);
-  box-shadow: 0 26px 65px rgb(45 60 31 / 17%);
+  background: rgb(255 254 250 / 91%);
+  box-shadow: 0 26px 65px rgb(8 8 30 / 34%);
 }
 
 .code-dots {
@@ -331,19 +336,20 @@ h1 span {
 
 .art-star {
   position: absolute;
-  color: #d28b57;
+  color: #baff78;
 }
 
 .star-one {
   top: 20%;
   right: 20%;
+  color: #fff29b;
   font-size: 29px;
 }
 
 .star-two {
   bottom: 21%;
   left: 17%;
-  color: #86a655;
+  color: #8bfff0;
   font-size: 23px;
 }
 
@@ -351,7 +357,7 @@ h1 span {
   position: absolute;
   right: 12%;
   bottom: 13%;
-  color: #778369;
+  color: #fffafa;
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1.3px;

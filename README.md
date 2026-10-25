@@ -1,39 +1,77 @@
-# Hey, I'm Ashika! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm on a journey of learning, creating, and growing as a developer. I enjoy exploring new ideas and turning them into projects.
+# Hi, I'm Ashika U P 👋
 
-## 🙋‍♀️ About Me
+### Information Science & Engineering Student | Aspiring Full-Stack Developer
 
-- 🌱 I'm currently learning and building new things.
-- 💡 I enjoy solving problems and bringing ideas to life.
-- ✨ I'm always curious about what I can learn next.
+I enjoy building useful, user-focused applications and turning ideas into polished digital experiences. I'm strengthening my skills across software development and exploring AI, data science, and full-stack technologies.
 
-> Make this section your own: add a few details about what you do, what you enjoy, or what you're currently working on.
+[![GitHub](https://img.shields.io/badge/GitHub-ashikaup16-181717?style=for-the-badge&logo=github)](https://github.com/ashikaup16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashikaup)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikaup55@gmail.com)
+
+</div>
+
+## 👩‍💻 About Me
+
+- 🎓 Pursuing a **B.E. in Information Science and Engineering** at Malnad College of Engineering, Hassan.
+- 💻 Interested in full-stack development, clean UI, and building practical applications.
+- 🧠 I enjoy analytical problem-solving and learning new technologies.
+- 🌱 Currently exploring **AI, data science, and full-stack development**.
+- 🤝 Open to learning, collaboration, and exciting opportunities.
 
 ## 🛠️ Skills
 
-Add the languages, tools, and technologies you use:
-
-- **Languages:** Add your programming languages
-- **Tools & technologies:** Add your frameworks, platforms, and developer tools
-- **Other skills:** Add anything else you'd like to highlight
+| Category | Technologies |
+| --- | --- |
+| **Programming & Web** | C, Python, Java, JavaScript, HTML, CSS |
+| **Frameworks & Libraries** | Django, Django REST Framework, React, Next.js |
+| **Databases** | PostgreSQL, SQLite, MongoDB, DBMS |
+| **Tools & Platforms** | Git, GitHub, VS Code |
 
 ## 🌟 Featured Projects
 
-Add your favorite projects here. Replace each placeholder with a project name, link, and short description.
+### [LectureAI](https://github.com/ashikaup16/LectureAI)
+An AI-powered learning platform that turns lecture videos or transcripts into summaries, Cornell-style notes, quizzes, and flashcards. It also includes an interactive lecture tutor and export options.
 
-- **[Project name](https://github.com/ashikaup16)** — A short description of what it does and what you learned.
-- **[Project name](https://github.com/ashikaup16)** — A short description of what it does and what you learned.
-- **[Project name](https://github.com/ashikaup16)** — A short description of what it does and what you learned.
+**Tech:** Node.js, Express, JavaScript, HTML, CSS, Google Gemini
 
-## 🎯 My Goals
+### [ClassTrack — Student Attendance Management](https://github.com/ashikaup16/student_attendance_management_system)
+A Django attendance app for managing student rosters, recording daily attendance, and viewing attendance reports, with staff sign-in and Django admin support.
 
-- 📚 Keep learning and improving my development skills.
-- 🚀 Build projects that are useful, creative, and meaningful.
-- 🤝 Connect and collaborate with other people in tech.
+**Tech:** Python, Django, HTML, CSS, SQLite
 
-## 🔗 Connect with Me
+### [Quizy](https://github.com/ashikaup16/Quizy)
+An interactive quiz platform with timed challenges, category-based questions, lifelines, score tracking, custom quiz creation, and downloadable achievement certificates.
 
+**Tech:** HTML, CSS, JavaScript, Web Audio API
+
+### [Sunshine Weather](https://github.com/ashikaup16/Weather-Prediction)
+A responsive weather dashboard with city search, hourly and seven-day forecasts, air-quality information, and saved favorite locations.
+
+**Tech:** HTML, CSS, JavaScript, Open-Meteo APIs
+
+## 🎓 Education
+
+- **Bachelor of Engineering — Information Science and Engineering:** Malnad College of Engineering, Hassan · **CGPA: 8.43/10**
+- **Pre-University Certificate — PCMB, Science Stream:** Mahesh PU College, Hassan · **Score: 90%**
+
+## 🎯 Goals
+
+- 🚀 Build and share reliable, user-centered software.
+- 📚 Grow as a full-stack developer and explore AI and data science.
+- 🌍 Contribute to meaningful projects and collaborate with the developer community.
+
+## 📫 Connect with Me
+
+- **Email:** [ashikaup55@gmail.com](mailto:ashikaup55@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ashikaup](https://www.linkedin.com/in/ashikaup)
 - **GitHub:** [github.com/ashikaup16](https://github.com/ashikaup16)
 
-Thanks for stopping by! 😊
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+</div>

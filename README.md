@@ -33,7 +33,7 @@ Building practical, user-focused web applications with clean interfaces and thou
 | --- | --- | --- |
 | [Medication Reminder](https://github.com/ashikaup16/medication-reminder) | Team-built medication scheduling, adherence tracking, and browser push notifications. This is my fork of the project. [Live app](https://medication-frontend-0bj3.onrender.com) | Next.js · Django REST Framework · Web Push |
 | [LectureAI](https://github.com/ashikaup16/LectureAI) | Turns lecture videos and transcripts into summaries, notes, quizzes, and flashcards. | Node.js · Express · JavaScript · Gemini |
-| [ClassTrack](https://github.com/ashikaup16/student_attendance_management_system) | Django app for student records, attendance, and reports. | Python · Django · SQLite |
+| [Campusly](https://github.com/ashikaup16/campusly) | Club-first campus portal for clubs, events, auditions, and registrations. [Live app](https://campusly-event.vercel.app/) | Python · Django · PostgreSQL |
 | [Quizy](https://github.com/ashikaup16/Quizy) | Interactive quiz platform with timed challenges and custom quizzes. | HTML · CSS · JavaScript |
 
 ## 📫 Connect
